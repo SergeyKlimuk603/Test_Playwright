@@ -1,0 +1,125 @@
+{
+  "workbench.colorCustomizations": {
+    // =============================================
+    // 1. Title Bar
+    // =============================================
+    // Background color of the title bar when the window is active
+    "titleBar.activeBackground": "#f90",
+
+    // Foreground (text) color of the title bar when the window is active
+    "titleBar.activeForeground": "#000",
+
+    // Background color of the title bar when the window is inactive (background)
+    "titleBar.inactiveBackground": "#f90",
+
+    // Foreground (text) color of the title bar when the window is inactive
+    "titleBar.inactiveForeground": "#a0a0a0",
+
+    // Border color of the title bar
+    "titleBar.border": "#fff",
+
+    // =============================================
+    // 2. Editor
+    // =============================================
+    // Main background color of the editor area
+    "editor.background": "#1e1e1e",
+
+    // Default foreground (text) color in the editor
+    "editor.foreground": "#d4d4d4",
+
+    // Color of line numbers in the editor gutter
+    "editorLineNumber.foreground": "#6e7681",
+
+    // Highlight color for the line number of the current cursor line
+    "editorLineNumber.activeForeground": "#e6edf3",
+
+    // Background highlight color for the current cursor line
+    "editor.lineHighlightBackground": "#2c2c2c",
+
+    // Background color of selected text
+    "editor.selectionBackground": "#264f78",
+
+    // Color of indent guides
+    "editorIndentGuide.background": "#3b3b3b",
+
+    // Color of active indent guides
+    "editorIndentGuide.activeBackground": "#707070",
+
+    // Scrollbar slider color in the editor
+    "scrollbarSlider.background": "#797979",
+
+    // Scrollbar slider hover color
+    "scrollbarSlider.hoverBackground": "#a0a0a0",
+
+    // =============================================
+    // 3. Status Bar
+    // =============================================
+    // Background color of the status bar
+    "statusBar.background": "#f90",
+
+    // Foreground (text/icon) color of the status bar
+    "statusBar.foreground": "#000",
+
+    // Background color when hovering over status bar items
+    "statusBar.hoverBackground": "#f90",
+
+    // Border color of the status bar
+    "statusBar.border": "#fff",
+
+    // Background color of the status bar during a debugging session
+    "statusBar.debuggingBackground": "#563d2c",
+
+    // Background color when no folder is opened
+    "statusBar.noFolderBackground": "#68217a",
+    
+    // Background of stable status bar items (git branch, errors, warnings)
+    // "statusBarItem.background": "#....",
+    // Hover background for status bar items
+    "statusBarItem.hoverBackground": "#04395e",
+
+    // =============================================
+    // 4. Left Side Bar & Activity Bar
+    // =============================================
+    // [Side Bar] Background color of the entire side bar (Explorer, Search, Source Control panels)
+    "sideBar.background": "#252526",
+
+    // [Side Bar] Foreground color for text and icons in the side bar
+    "sideBar.foreground": "#cccccc",
+
+    // [Side Bar] Title text color at the top of the side bar (e.g., "EXPLORER", "SEARCH")
+    "sideBarTitle.foreground": "#bbbbbb",
+
+    // [Side Bar] Background color of section headers (e.g., "WORKSPACE", "OUTLINE")
+    "sideBarSectionHeader.background": "#2d2d2d",
+
+    // [Side Bar] Foreground color of section headers
+    "sideBarSectionHeader.foreground": "#e0e0e0",
+
+    // [Side Bar] Border color of the side bar
+    "sideBar.border": "#000000",
+
+    // [Activity Bar] Background color of the Activity Bar (the narrow leftmost icon bar)
+    "activityBar.background": "#2c2c2c",
+
+    // [Activity Bar] Background highlight color for the selected/active item
+    "activityBar.activeBackground": "#1f8ad2",
+
+    // [Activity Bar] Border color of the activity bar (typically on the right edge)
+    "activityBar.border": "#000000",
+
+    // [Activity Bar] Foreground color for icons and text in the activity bar
+    "activityBar.foreground": "#ffffff",
+
+    // [Activity Bar] Background color when hovering over an activity bar icon
+    "activityBar.hoverBackground": "#414141",
+
+    // [Activity Bar] Foreground color for inactive icons
+    "activityBar.inactiveForeground": "#6e6e6e",
+
+    // [Activity Bar] Background color of badges (e.g., Git change count)
+    "activityBarBadge.background": "#007acc",
+
+    // [Activity Bar] Foreground color of badges (e.g., Git change count)
+    "activityBarBadge.foreground": "#ffffff"
+  }
+}
